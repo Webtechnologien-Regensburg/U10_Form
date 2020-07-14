@@ -1,5 +1,5 @@
 ---
-title: Einfaches Formular
+title: Ein einfaches Formular
 author: Martin Kocur
 documentclass: scrartcl
 classoption:
@@ -25,7 +25,7 @@ header-includes: |
 ---
 
 
-# 10 | Meine Freundesliste (Forms)
+# 10 | Meine Freundesliste
 
 Erstellen Sie ein kleines Formular, mit welchem Sie ihre Freunde in einer Datenbank abspeichern können. Das Formular soll den Vor - und Nachnamen, das Alter sowie Ihre erste Begegnung mit dem/r jeweiligen  Freund/in abfragen. Nur der Vorname sowie das Alter müssen eingegeben werden, um die Daten abzuschicken. Die Datenbank soll dynamisch per node.js generiert werden. Verwenden Sie die Module der in der Vorlesung besprochenen Webanwendung "Kursbuch Medieninformatik". Verwenden Sie Bootstrap, um das Formular zu gestalten. Ziel der Anwendung ist es, die Daten in der Datenbank zu speichern. Sie müssen Sie nicht aus der Datenbank auslesen und darstellen.
 
