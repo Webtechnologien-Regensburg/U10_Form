@@ -27,11 +27,13 @@ header-includes: |
 
 # 10 | Meine Freundesliste (Forms)
 
-Erstellen Sie ein kleines Formular, mit welchem Sie ihre Freunde in einer Datenbank abspeichern können. Das Formular soll den Vor - und Nachnamen, das Alter sowie Ihre erste Begegnung mit dem/r jeweiligen  Freund/in abfragen. Nur der Vorname sowie das Alter müssen eingegeben werden, um die Daten abzuschicken. Die Datenbank soll dynamisch per node.js generiert werden. Verwenden Sie die Module der in der Vorlesung besprochenen Webanwendung "Kursbuch Medieninformatik". Verwenden Sie Bootstrap, um das Formular zu gestalten.
+Erstellen Sie ein kleines Formular, mit welchem Sie ihre Freunde in einer Datenbank abspeichern können. Das Formular soll den Vor - und Nachnamen, das Alter sowie Ihre erste Begegnung mit dem/r jeweiligen  Freund/in abfragen. Nur der Vorname sowie das Alter müssen eingegeben werden, um die Daten abzuschicken. Die Datenbank soll dynamisch per node.js generiert werden. Verwenden Sie die Module der in der Vorlesung besprochenen Webanwendung "Kursbuch Medieninformatik". Verwenden Sie Bootstrap, um das Formular zu gestalten. Ziel der Anwendung ist es, die Daten in der Datenbank zu speichern. Sie müssen Sie nicht aus der Datenbank auslesen und darstellen.
 
 Die folgende Abbildung zeigt einen Ausschnitt aus dem User Interface:
 
 ![](Screenshot.PNG){ height=12cm }
+
+
 
 ------
 
