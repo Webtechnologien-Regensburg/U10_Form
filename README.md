@@ -31,7 +31,7 @@ Erstellen Sie ein kleines Formular, mit welchem Sie ihre Freunde in einer Datenb
 
 Die folgende Abbildung zeigt einen Ausschnitt aus dem User Interface:
 
-![](Screenshot.PNG){ height=12cm }
+![](Screenshot.PNG){ height=8cm }
 
 
 
